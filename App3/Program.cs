@@ -20,4 +20,10 @@ namespace App3
             
         }
     }
+
+    class IceCream
+    {
+
+
+    }
 }
